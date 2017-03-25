@@ -1,0 +1,10 @@
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests\BrokerageLib\bin\Debug\BrokerageLib.dll
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests\BrokerageLib\bin\Debug\BrokerageLib.pdb
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests\BrokerageLib\obj\Debug\BrokerageLib.csprojResolveAssemblyReference.cache
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests\BrokerageLib\obj\Debug\BrokerageLib.dll
+C:\Courseware\VS2015-UnitTest\Prototypes\FromScratchUnitTests\BrokerageLib\obj\Debug\BrokerageLib.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\01_CreateFramework\01_WhatIsUnitTest\BrokerageLib\obj\Debug\BrokerageLib.csprojResolveAssemblyReference.cache
+C:\Courseware\VS2015-UnitTest\Exercise Files\01_CreateFramework\01_WhatIsUnitTest\BrokerageLib\obj\Debug\BrokerageLib.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\01_CreateFramework\01_WhatIsUnitTest\BrokerageLib\obj\Debug\BrokerageLib.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\01_CreateFramework\01_WhatIsUnitTest\BrokerageLib\bin\Debug\BrokerageLib.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\01_CreateFramework\01_WhatIsUnitTest\BrokerageLib\bin\Debug\BrokerageLib.pdb
